@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import ImageSlider from './ImageSlider';
 import Bomb from './Bomb';
 
-ReactDOM.render(
+ReactDOM.render( 
   <div>
     <ImageSlider />
     <Bomb initialCount={120} />
